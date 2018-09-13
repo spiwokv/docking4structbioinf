@@ -9,8 +9,8 @@ authors virtually screened 108790 compounds. They selected, purchased and tested
 turned out to be active with K_D < 10 microM. We can try a simplified version of this virtual
 screening.
 
-The authors took 108790 compounds and removed compounds that were too big. This resulted to 95
-147 compounds. These compounds were docked into the binding site of Histamine 1 receptor
+The authors took 108790 compounds and removed compounds that were too big. This resulted to
+95147 compounds. These compounds were docked into the binding site of Histamine 1 receptor
 and the authors also calculated "interaction fingerprints" (in this tutorial we will use only docking).
 Based on charge of the molecule, docking scores and fingerprints they selected 611 compounds.
 After further filtering and visual inspection they selected 26 compounds. These compounds were
