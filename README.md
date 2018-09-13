@@ -39,8 +39,8 @@ coordinates can be used to define the centre of the binding site. Write down its
 coordinates.
 
 Take structures of known ligands from the articles. They could be supplied to you either as
-individual *mol2* files or a single *mol2* file. Place a ligand *mol2* file, receptor *mol2*
-gile and PLANTS executable to a separate directory. Then copy there a configuration file
+individual *mol2* files or a single *mol2* file. Place a ligand *mol2* file and receptor *mol2*
+file to a separate directory. Then copy there a configuration file
 from PLANTS example session. 
 
 Modify the configuration file:
