@@ -121,3 +121,21 @@ now by charge (column *D*) in descending order. Then chose compounds with positi
 sort them by score (column *C*). Finally select compounds with zero and negative charge and sort
 them by score. Look at changes in the plot.
 
+References:
+
+1. de Graaf C, Kooistra AJ, Vischer HF, Katritch V, Kuijer M, Shiroishi M, Iwata S, Shimamura T,
+Stevens RC, de Esch IJ, Leurs R. [Crystal structure-based virtual screening for fragment-like
+ligands of the human histamine H(1) receptor](https://doi.org/10.1021/jm2011589).
+*J Med Chem* 2011, **54***, 8195-8206.
+
+2. Shimamura T, Shiroishi M, Weyand S, Tsujimoto H, Winter G, Katritch V, Abagyan R,
+Cherezov V, Liu W, Han GW, Kobayashi T, Stevens RC, Iwata S. [Structure of the human 
+histamine H(1) receptor complex with doxepin](https://doi.org/10.1038/nature10236).
+*Nature* 2011, **475**, 65-70.
+
+3. Irwin JJ, Shoichet BK. [ZINC - A free database of commercially available compounds for
+virtual screening](https://doi.org/10.1021/ci049714%2B). *J Chem Inf Model* 2005, **45**, 177-182.
+
+4. Korb O, Stützle T, Exner TE. [Empirical scoring functions for advanced protein-ligand docking 
+with PLANTS](https://doi.org/10.1021/ci800298z). *J Chem Inf Model* 2009, **49**, 84-96.
+
