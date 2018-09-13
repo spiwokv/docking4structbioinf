@@ -111,7 +111,7 @@ To the box *F2* type that it is *=F1+E2*. Copy this box down. This column indica
 ligands scored better then the compound in the row. To the box *G1* type 1, to *G2* type 2, and so
 forth, until you reach 21 in *G21*. Then type 21 to *G22*, *G23* and so forth. This column shows how
 the column *F* would look like in the ideal word where the docking program can perfectly
-distinguish real ligands from decoys. Finally, to the box *H1* type *=21*A1/total number of
+distinguish real ligands from decoys. Finally, to the box *H1* type *=21\*A1/total number of
 compounds* and copy this box down. This box will indicate how the column *F* looks like when the
 docking program gives totally random scores. Now make a plot with column *A* at the horizontal
 axis and columns *F*, *G* and *H* on the vertical axis.
