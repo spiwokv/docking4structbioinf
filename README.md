@@ -65,7 +65,7 @@ cluster_rmsd 2.0
 
 Next, type:
 
-`./PLANTS --mode screen` *name_of_your_config_file*
+`PLANTS --mode screen` *name_of_your_config_file*
 
 to the command line. Docking takes seconds to minutes depending on computer power, size and
 complexity of the ligand etc.
