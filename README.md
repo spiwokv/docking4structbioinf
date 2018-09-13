@@ -45,31 +45,28 @@ from PLANTS example session.
 
 Modify the configuration file:
 ```bash
-`# scoring function and search settings 
+# scoring function and search settings 
 scoring_function chemplp 
 search_speed speed2 
 # input 
-protein_file 
-name_of_your_receptor_mol2_file
-ligand_file 
-name_of_your_ligand_mol2_file
+protein_file # <--- type here name of your receptor mol2 file
+ligand_file # <--- type here name of your ligand mol2 file
 # output 
 output_dir results 
 # write single mol2 files (e.g. for RMSD calculation) 
 write_multi_mol2 0 
 # binding site definition 
-bindingsite_center 
-`*`type here coordinates x, y and z of the binding site centre`*`
+bindingsite_center # <--- type here coordinates x, y and z of the binding site centre
 bindingsite_radius 10.5000 
 # cluster algorithm 
 cluster_structures 10 
-cluster_rmsd 2.0 `
+cluster_rmsd 2.0
 ```
 
 Next, type:
-```
-./PLANTS --mode screen name_of_your_config_file
-```
+
+`./PLANTS --mode screen` *name_of_your_config_file*
+
 to the command line. Docking takes seconds to minutes depending on computer power, size and
 complexity of the ligand etc.
 
