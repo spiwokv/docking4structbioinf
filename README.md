@@ -59,7 +59,7 @@ output_dir results
 write_multi_mol2 0 
 # binding site definition 
 bindingsite_center 
-*type here coordinates x, y and z of the binding site centre*
+`*`type here coordinates x, y and z of the binding site centre`*`
 bindingsite_radius 10.5000 
 # cluster algorithm 
 cluster_structures 10 
