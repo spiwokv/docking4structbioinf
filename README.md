@@ -45,7 +45,7 @@ from PLANTS example session.
 
 Modify the configuration file:
 ```bash
-# scoring function and search settings 
+`# scoring function and search settings 
 scoring_function chemplp 
 search_speed speed2 
 # input 
@@ -63,7 +63,7 @@ bindingsite_center
 bindingsite_radius 10.5000 
 # cluster algorithm 
 cluster_structures 10 
-cluster_rmsd 2.0 
+cluster_rmsd 2.0 `
 ```
 
 Next, type:
