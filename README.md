@@ -44,7 +44,7 @@ gile and PLANTS executable to a separate directory. Then copy there a configurat
 from PLANTS example session. 
 
 Modify the configuration file:
-```
+```bash
 # scoring function and search settings 
 scoring_function chemplp 
 search_speed speed2 
